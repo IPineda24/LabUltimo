@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DummyDictionary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="word_hint">word</string>
+    <string name="definition_hint">definition</string>
+    <string name="username">Username</string>
+    <string name="sing_in">sing in</string>
+    <string name="password">Password</string>
+</resources>
